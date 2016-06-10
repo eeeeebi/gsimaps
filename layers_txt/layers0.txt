@@ -5,7 +5,7 @@
       "id": "std",
       "title": "標準地図",
       "iconUrl": "",
-      "url": "http://b.tile.openstreetmap.org/{19}/{465155}/{206651}.png",
+      "url": "http://b.tile.openstreetmap.org/{z}/{y}/{x}.png",
       "subdomains": "",
       "attribution": "",
       "cocotile": true,
